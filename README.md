@@ -6,5 +6,3 @@ I like Programming 👾 (especially in Rust 😳)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helium18&layout=compact&hide=css)
-
-\[Reach me via Discord\]
