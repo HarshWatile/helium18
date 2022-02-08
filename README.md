@@ -5,4 +5,4 @@ Student, OSS Software Enthusiast (FOSS 🛐).
 I like Programming 👾 (especially in Rust 😳)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helium18&layout=compact&hide=css&theme=city_lights)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helium18&layout=compact&hide=css&theme=github_dark)
