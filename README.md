@@ -1,6 +1,6 @@
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=5865F2)](https://discord.com/users/853287934924423198)
 
-Student, OSS Software Enthusiast (FOSS 🛐).
+Student, OSS Software (🛐) Enthusiast and dev.
 
 I like Programming 👾 (especially in Rust 😳)
 
