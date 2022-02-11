@@ -1,7 +1,7 @@
 # [Hello world!](https://helium18.github.io)
 I'm a 16 y/o self-taught Programmer specializing in CLI applications and Web-dev with RustWasm (WebAssembly). 
 
-I'm enthusiastic about Open-Source and everything related to it. As an avid Linux user (and enjoyer), I mostly develop Linux apps :)
+I'm enthusiastic about Open-Source and everything related to it. As an avid Linux user (and enjoyer), I mostly develop Linux apps.
 
 I love spending time searching for interesting OSS software and glancing at their source code. Can't code much though (blame the Indian Education System), hoping to write more soon!
 
