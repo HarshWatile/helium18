@@ -13,4 +13,4 @@ I love spending time searching for interesting OSS software and glancing at thei
 ---
 If you like my work, don't hesitate to reach me out on 
 
-<a href="mailto:helium.dev@tuta.io">![helium.dev@tuta.io](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)</a> [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=5865F2)](https://discord.com/users/853287934924423198) 
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label&color=5865F2)](https://discord.com/users/853287934924423198) 
